@@ -9,3 +9,5 @@
 ### para rodar o projeto
 
 `npm run start-dev`
+
+### Sem utilização de Banco de dados
